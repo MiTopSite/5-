@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 595.3 635.7" style="enable-background:new 0 0 595.3 635.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:url(#SVGID_3_);}
+</style>
+<g>
+	<defs>
+		<polygon id="SVGID_1_" points="0,0 0,77.1 0.1,77.1 0.1,635.7 595.3,635.7 595.3,77.1 595.3,77.1 595.3,21.4 564.3,0 		"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-9.094947e-13" y1="635.74" x2="1" y2="635.74" gradientTransform="matrix(595.2801 0 0 -595.2801 0 378761.2188)">
+		<stop  offset="0" style="stop-color:#ED1C24"/>
+		<stop  offset="1" style="stop-color:#B01423"/>
+	</linearGradient>
+	<rect y="0" class="st0" width="595.3" height="635.7"/>
+</g>
+</svg>
